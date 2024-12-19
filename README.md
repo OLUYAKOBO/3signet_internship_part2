@@ -40,7 +40,7 @@ This project focuses on building a deep learning model to classify images from t
 ---
 
 ## **Results**
-- **Test Accuracy:** Achieved a test accuracy of **38%**.
+- **Test Accuracy:** Achieved a test accuracy of **38%**. Which means that the model predicted 3or 4 out of 10 images correctly.
 - **Performance Observations:**
   - The model performed well on distinct classes but struggled with visually similar categories.
 - **Confusion Matrix:** Highlighted the misclassifications across challenging classes.
@@ -55,4 +55,4 @@ This project focuses on building a deep learning model to classify images from t
 
 ---
 
-This is the link to the web app: https://cifarimageclassificationapp.streamlit.app/
+Try out the app here: https://cifarimageclassificationapp.streamlit.app/
