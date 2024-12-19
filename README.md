@@ -56,3 +56,43 @@ This project focuses on building a deep learning model to classify images from t
 ---
 
 Try out the app here: https://cifarimageclassificationapp.streamlit.app/
+
+
+---
+
+## **Key Features**
+1. **Data Augmentation:** Enhanced model robustness using transformations such as random cropping, flipping, and rotation.
+2. **Transfer Learning:** Fine-tuned pre-trained ResNet50 for improved performance.
+3. **Web Deployment:** The model is accessible as a user-friendly Streamlit app for real-time predictions.
+
+---
+
+## **Recommendations**
+1. **Performance Improvements:**
+   - Experiment with larger image resolutions (e.g., 64x64 or 128x128) to capture more details.
+   - Use additional pre-trained architectures (e.g., EfficientNet, DenseNet) for better generalization.
+2. **Scalability:** Deploy the application on a cloud platform (e.g., AWS, Azure) for handling a larger number of users.
+
+---
+
+## **Limitations**
+1. **Dataset Challenges:** 
+   - Small image size (32x32) limits the amount of information available for classification.
+2. **Class Imbalance:** Certain categories have fewer distinct features, leading to misclassifications.
+3. **Generalization:** The model's performance on natural images outside the dataset requires further testing.
+
+---
+
+## **Future Work**
+- Explore additional architectures such as EfficientNet or Vision Transformers for improved performance.
+- Enhance the Streamlit app by adding features such as class-specific explanations or heatmaps to visualize model predictions.
+
+---
+
+## **Contact**
+For questions or collaboration, feel free to reach out:
+- **Name:** [Yakub Junaid]  
+- **Email:** [junaidyakub28@gmail.com] 
+
+---
+
