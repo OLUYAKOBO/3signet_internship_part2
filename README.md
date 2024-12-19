@@ -1,4 +1,4 @@
-# **CIFAR-100 Image Classification Project**
+# **3SIGNET LIMITED CIFAR-100 Image Classification Project**
 
 ## **Project Overview**
 This project focuses on building a deep learning model to classify images from the CIFAR-100 dataset into 100 fine-grained categories. The model has been deployed as a web application using Streamlit, where users can upload images for real-time classification.
